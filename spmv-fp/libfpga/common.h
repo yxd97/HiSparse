@@ -180,7 +180,7 @@ const unsigned FPADD_LATENCY = 4;
 
 // used for pe-stall
 const unsigned OB_BANK_SIZE = 1024 * 8;
-const unsigned INTERLEAVE_FACTOR = 6;
+const unsigned INTERLEAVE_FACTOR = 4;
 
 const unsigned VB_BANK_SIZE = 1024 * 4;
 
